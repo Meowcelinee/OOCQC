@@ -17,7 +17,7 @@ Created by Amelia, maintained by her and Natalie - last updated May 3rd 2024
 > Hell yeah
 - Jenn
 
-> :sob:
+> 😭
 - Emilia
 
 > why am i being pinged abt this i dont use this
@@ -26,5 +26,5 @@ Created by Amelia, maintained by her and Natalie - last updated May 3rd 2024
 > amazing
 - Locko
 
-> *:nerd:*
+> 🤓
 - Hoon
