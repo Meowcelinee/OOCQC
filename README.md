@@ -4,23 +4,28 @@
 
 Resource pack for the OOCQC thread!
 
-Created by Amelia, maintained by her and Natalie - last updated May 30th 2024
+Created by Amelia, maintained by her and Natalie - last updated December 14th 2024
 
 ## Reviews
 
 > I neednthos pack
 >
 > Hell yeah
-- Jenn
+
+-   Jenn
 
 > 😭
-- Emilia
+
+-   Emilia
 
 > why am i being pinged abt this i dont use this
-- Rhi
+
+-   Rhi
 
 > amazing
-- Locko
+
+-   Locko
 
 > 🤓
-- Hoon
+
+-   Hoon
