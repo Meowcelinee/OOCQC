@@ -1991,7 +1991,7 @@ this splash is number 1337 which i think is kinda funny
 "The autism in me didn't notice" -Callahan
 "This is the first place I've made friends that I haven't had to talk about in therapy." -Dish
 "it’s not because you’re autistic it’s because you’re english silly" -Cassi
-"Beaupedia was slain by The Killer Bunny" -net.minecraft.server.events.PLAYER_DIES\
+"Beaupedia was slain by The Killer Bunny" -net.minecraft.server.events.PLAYER_DIES
 "what's wrong with murdering infants?" -Callahan
 "we got backdoored hard" -Chibi
 "idk how a dildo would fix the world, but on the other hand why not" -Sei
@@ -2022,7 +2022,7 @@ this splash is number 1337 which i think is kinda funny
 "ur touching a cock rn" -Wynn
 "i wanna get baked also" -Elliot
 "i always want squirrels in my pants" -Chell
-"duck, cat, and women the holy trinity"
+"duck, cat, and women the holy trinity" -Unknown
 "fuck" -Callahan
 "I believe that wap" -Dish
 "either way its too long" -Amelia
