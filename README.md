@@ -4,7 +4,7 @@
 
 Resource pack for the OOCQC thread!
 
-Created by Amelia, maintained by her and Natalie - last updated December 14th 2024
+Created by Amelia, maintained by her and Marceline - last updated December 14th 2024
 
 ## Reviews
 
